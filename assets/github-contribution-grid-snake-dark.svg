@@ -1,0 +1,11 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub contribution snake placeholder dark</title>
+  <desc id="desc">This placeholder is replaced by GitHub Actions after the contribution snake workflow runs.</desc>
+  <rect width="1200" height="220" rx="16" fill="#0B1026"/>
+  <rect x="1" y="1" width="1198" height="218" rx="15" stroke="#334155" stroke-width="2"/>
+  <path d="M120 118C205 64 295 64 380 118C465 172 555 172 640 118C725 64 815 64 900 118C955 153 1010 165 1080 144" stroke="#A78BFA" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="1086" cy="142" r="10" fill="#60A5FA"/>
+  <circle cx="1118" cy="132" r="10" fill="#60A5FA"/>
+  <text x="600" y="48" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Contribution snake is ready to generate</text>
+  <text x="600" y="190" text-anchor="middle" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Run the GitHub Action once to replace this with the live animation.</text>
+</svg>
