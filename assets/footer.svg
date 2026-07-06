@@ -1,0 +1,21 @@
+<svg width="1400" height="180" viewBox="0 0 1400 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Harsh Wadari Footer</title>
+  <desc id="desc">A dark premium footer graphic for a GitHub profile.</desc>
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1400" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1026"/>
+      <stop offset="0.45" stop-color="#312E81"/>
+      <stop offset="1" stop-color="#075985"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="180" rx="28" fill="url(#footerBg)"/>
+  <path d="M0 64C160 118 322 120 496 82C700 37 858 37 1020 83C1167 124 1283 120 1400 79" stroke="url(#line)" stroke-width="3"/>
+  <path d="M0 113C184 149 356 139 531 114C745 84 879 91 1057 122C1194 146 1304 145 1400 118" stroke="#93C5FD" stroke-opacity="0.28" stroke-width="2"/>
+  <text x="700" y="93" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Harsh Wadari</text>
+  <text x="700" y="129" text-anchor="middle" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">AI Engineer | Machine Learning Developer | Full Stack Engineer</text>
+</svg>
