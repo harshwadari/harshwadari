@@ -1,25 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1026,35:312E81,70:6D28D9,100:0EA5E9&text=Harsh%20Wadari&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=58&animation=fadeIn" alt="Harsh Wadari profile header" />
-</div>
-
-<div align="center">
-  <img width="100%" src="./assets/banner.svg" alt="AI Engineer banner" />
-</div>
-
-<h1 align="center">AI Engineer | Machine Learning Developer | Full Stack Engineer</h1>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Computer+Vision+%7C+Generative+AI+%7C+Full+Stack+AI+Products;Building+production-minded+ML+systems+with+FastAPI%2C+React%2C+Docker;400%2B+DSA+problems+solved+%7C+Research-driven+engineering" alt="Typing SVG" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1026,35:312E81,70:6D28D9,100:0EA5E9&text=Harsh%20Wadari&fontColor=FFFFFF&fontSize=48&fontAlignY=44" alt="Harsh Wadari profile header" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/BE%20Data%20Engineering-2023--2027-6D28D9?style=for-the-badge" alt="BE Data Engineering" />
   <img src="https://img.shields.io/badge/Mumbai%2C%20India-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Mumbai India" />
-  <img src="https://komarev.com/ghpvc/?username=harshwadari&style=for-the-badge&color=7C3AED&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/harshwadari?style=for-the-badge&color=2563EB&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/harshwadari?affiliations=OWNER&style=for-the-badge&color=9333EA&label=Stars" alt="GitHub stars" />
 </div>
 
 <br />
@@ -43,22 +28,9 @@
 
 ## About
 
-I am **Harsh Wadari**, a Data Engineering undergraduate from Mumbai focused on building AI-powered products across **machine learning, computer vision, generative AI, and full stack engineering**.
+I am **Harsh Wadari**, a Data Engineering undergraduate from Mumbai interested in software development, problem solving, and AI/ML.
 
-My work sits at the intersection of applied ML and product engineering: I enjoy turning models into usable systems with clean APIs, reliable backends, responsive frontends, and measurable user impact. I have built projects using Python, Scikit-Learn, OpenCV, FastAPI, React, Node.js, MongoDB, Docker, and AWS, and I have solved **400+ DSA problems** across coding platforms.
-
-I am currently sharpening my skills in production-grade ML systems, computer vision pipelines, LLM applications, and research-oriented engineering.
-
-<div align="center">
-
-| Open To | Interests | Current Direction |
-|---|---|---|
-| AI/ML Internships | Computer Vision | End-to-end ML deployment |
-| Software Engineering Internships | Generative AI | FastAPI + React AI products |
-| Research Collaboration | Applied Machine Learning | Model evaluation and MLOps |
-| Open Source Work | Data-centric AI | Practical developer tools |
-
-</div>
+I enjoy building practical projects with clean APIs, useful frontends, and reliable backends. I have worked with Python, Scikit-Learn, OpenCV, FastAPI, React, Node.js, MongoDB, Docker, and AWS, and I have solved **600+ DSA problems** across coding platforms.
 
 ---
 
@@ -68,15 +40,15 @@ I am currently sharpening my skills in production-grade ML systems, computer vis
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,html,css,sql&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,sql&theme=dark" alt="Languages" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,streamlit&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,streamlit&theme=dark" alt="Frontend" />
 
 ### Backend and Databases
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" alt="Backend and databases" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,mysql,firebase&theme=dark" alt="Backend and databases" />
 
 ### Cloud, DevOps, and Tooling
 
@@ -87,21 +59,6 @@ I am currently sharpening my skills in production-grade ML systems, computer vis
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas&theme=dark" alt="AI ML and data stack" />
 
 </div>
-
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---:|---|
-| Machine Learning | Advanced Beginner to Intermediate | Classification, feature engineering, model evaluation, SVM, KNN, Scikit-Learn workflows |
-| Computer Vision | Intermediate | OpenCV preprocessing, HSV segmentation, texture extraction, image classification pipelines |
-| Generative AI | Intermediate | Resume parsing, job matching, interview question generation, structured AI reports using Google GenAI |
-| Backend for AI | Intermediate | FastAPI, REST APIs, model serving, confidence scoring, batch prediction flows |
-| Data Analysis | Intermediate | NumPy, Pandas, Matplotlib, exploratory analysis, feature preparation |
-| Full Stack AI Products | Intermediate | React, Vite, Tailwind, Node.js, Express, MongoDB, auth, dashboard-style UX |
-| MLOps Foundations | Growing | Docker, Linux, AWS fundamentals, reproducible deployment patterns |
-| Research Engineering | Growing | Literature-driven project development, experimentation, benchmarking, applied AI problem framing |
 
 ---
 
@@ -169,7 +126,7 @@ A computer vision project concept focused on store intelligence, visual analysis
 | Performance | Designed for object-level and scene-level analytics |
 | Security | Local-first analysis workflow with scope for privacy-aware deployment |
 | Impact | Converts visual store data into measurable business observations |
-| Repository | [GitHub](https://github.com/harshwadari/Store-Intelligence-System) |
+| Repository | Coming soon |
 
 **Engineering highlights**
 
@@ -193,7 +150,7 @@ A machine learning project direction focused on medical image classification, mo
 | Performance | Evaluation-first workflow for accuracy, recall, precision, and confusion matrix analysis |
 | Security | Dataset-sensitive workflow with responsible handling assumptions |
 | Impact | Shows applied AI interest in healthcare and high-stakes classification |
-| Repository | [GitHub](https://github.com/harshwadari/Brain-MRI-Classification) |
+| Repository | [GitHub](https://github.com/harshwadari/brain-mri-tumor-segmentation-classification) |
 
 **Engineering highlights**
 
@@ -265,7 +222,7 @@ A recommendation system project focused on similarity search, ranking, and perso
 | Performance | Similarity-based retrieval with interpretable outputs |
 | Security | Local dataset workflow with safe demo deployment options |
 | Impact | Demonstrates recommender systems and applied ML fundamentals |
-| Repository | [GitHub](https://github.com/harshwadari/Movie-Recommendation-System) |
+| Repository | [GitHub](https://github.com/harshwadari/Movie_Recommendation_System) |
 
 **Engineering highlights**
 
@@ -294,30 +251,10 @@ A research-driven AI project to be expanded as the final year topic matures.
 **Engineering highlights**
 
 - Creates a place for research progress, papers, experiments, and findings.
-- Supports a stronger academic + industry portfolio narrative.
+- Supports a stronger academic and industry portfolio narrative.
 - Can become a flagship profile section once the topic is finalized.
 
 </details>
-
----
-
-## Experience
-
-<div align="center">
-
-| Role | Organization | Timeline | Focus |
-|---|---|---|---|
-| AI Cloud Virtual Intern | Edunet Foundation, AICTE, IBM | 4 weeks | AI fundamentals, cloud concepts, applied AI learning |
-
-</div>
-
-**Scope of work**
-
-- Completed a structured AI Cloud virtual internship with Edunet Foundation, AICTE, and IBM.
-- Strengthened fundamentals in artificial intelligence, cloud solution thinking, and applied technology workflows.
-- Connected academic learning with practical AI systems and cloud-enabled product development.
-
-**Skills:** `Artificial Intelligence` `Cloud Computing` `IBM SkillsBuild` `Applied AI` `Problem Solving`
 
 ---
 
@@ -327,7 +264,7 @@ A research-driven AI project to be expanded as the final year topic matures.
 
 | Recognition | Details |
 |---|---|
-| 400+ DSA Problems | Solved across coding platforms, strengthening algorithms and implementation speed |
+| 600+ DSA Problems | Solved across coding platforms, strengthening algorithms and implementation speed |
 | AI Cloud Virtual Internship | Completed 4-week AI Cloud internship with Edunet Foundation, AICTE, and IBM |
 | Production AI Projects | Built AI resume analysis, interview preparation, and computer vision classification systems |
 | Computer Vision Accuracy | Achieved 90.75% test accuracy and 91.53% cross-validation accuracy on plant disease classification |
@@ -364,24 +301,6 @@ A research-driven AI project to be expanded as the final year topic matures.
   <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations%20%28Learning%29-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Foundations" />
 </p>
 
-### Oracle
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle-Database%20%26%20Cloud%20%28Learning%29-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle learning" />
-</p>
-
-### NPTEL
-
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Computer%20Science%20%28Learning%29-1E40AF?style=for-the-badge" alt="NPTEL learning" />
-</p>
-
-### Cisco
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Networking%20%28Learning%29-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco learning" />
-</p>
-
 ---
 
 ## Coding Profiles
@@ -411,136 +330,4 @@ A research-driven AI project to be expanded as the final year topic matures.
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=harshwadari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=A78BFA&icon_color=60A5FA&text_color=E5E7EB&ring_color=7C3AED" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshwadari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=A78BFA&text_color=E5E7EB" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshwadari&theme=tokyonight&hide_border=true&background=0B1026&ring=7C3AED&fire=A78BFA&currStreakLabel=60A5FA" alt="GitHub streak" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshwadari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshwadari&theme=tokyo-night&hide_border=true&bg_color=0B1026&color=A78BFA&line=60A5FA&point=F8FAFC&area=true&area_color=7C3AED" alt="Contribution graph" />
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="./assets/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-## WakaTime
-
-<details>
-<summary><strong>Optional coding activity</strong></summary>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</details>
-
----
-
-## Current Focus
-
-```yaml
-learning:
-  - Advanced machine learning workflows
-  - Computer vision model development
-  - Generative AI application architecture
-  - Cloud deployment and Docker-based delivery
-
-building:
-  - AI interview preparation systems
-  - Computer vision classification platforms
-  - Full stack products with AI features
-  - Recruiter-ready GitHub project documentation
-
-exploring:
-  - Research-backed ML experimentation
-  - LLM-powered developer tools
-  - MLOps fundamentals
-  - Open source collaboration
-
-open_to:
-  - AI/ML internships
-  - Software engineering internships
-  - Computer vision projects
-  - Research collaborations
-```
-
----
-
-## Repository Roadmap
-
-```text
-AI and Machine Learning
-|-- PrepWise AI
-|-- Brain MRI Classification
-|-- Plant Disease Detection
-|-- AI Resume Analyzer
-
-Full Stack
-|-- Personal Finance Tracker
-|-- Movie Recommendation System
-
-Computer Vision
-|-- Store Intelligence System
-
-DSA
-|-- LeetCode Solutions
-|-- Striver A2Z
-```
-
----
-
-## Connect
-
-<div align="center">
-  <a href="mailto:harshwadari@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-harshwadari%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/harsh-wadari/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/harshwadari">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://my-portfolio-harsh-34.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <strong>Building AI systems that are practical, measurable, and useful.</strong>
-</div>
-
-<br />
-
-<div align="center">
-  <img width="100%" src="./assets/footer.svg" alt="Profile footer" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,35:6D28D9,70:312E81,100:0B1026" alt="Capsule footer" />
 </div>
